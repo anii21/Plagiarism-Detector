@@ -13,4 +13,4 @@ The application is built using **Streamlit** for a user-friendly web interface, 
 - **Efficiency Matrix**: Measures and compares the time taken by each algorithm.
 - **Web Interface**: Built with Streamlit for easy interaction.
 
-![How it looks](Screenshot (27).png)
+![How it looks]([Screenshot (27).png](https://github.com/anii21/Plagiarism-Detector/blob/main/Screenshot%20(27).png))
